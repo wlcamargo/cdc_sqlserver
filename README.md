@@ -6,9 +6,9 @@
 Essa feature permite rastrear todas as operações de insert, update e delete em uma tabela ou determinada coluna de uma tabela.
 
 ## Video
+https://youtu.be/DO9nGq3nSAM
 
-
-## Prerequiquisites
+## Prerequisites
 - Ter permissão para habilitar
 - SQL Server precisa estar com o SQL Server Agent ligado
 
