@@ -1,4 +1,4 @@
-# Change Data Caputure (CDC) With SQL Server 
+# Change Data Capture (CDC) With SQL Server 
 
 ![Imagemi](./assets/sample.png)
 
